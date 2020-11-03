@@ -1,0 +1,9 @@
+<svg id="images-white-arrow-down" xmlns="http://www.w3.org/2000/svg" width="14" height="21" viewBox="0 0 14 21">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#D8D8D8" fill-opacity="0" d="M0 0H28V28H0z" transform="translate(-7 -3)"/>
+        <g stroke="#FFF" stroke-width="3">
+            <path stroke-linecap="square" d="M6 0L6 15" transform="translate(-7 -3) translate(8 5)"/>
+            <path d="M0 17L6 12 12 17" transform="translate(-7 -3) translate(8 5) matrix(1 0 0 -1 0 29)"/>
+        </g>
+    </g>
+</svg>
