@@ -1,0 +1,6 @@
+<svg id="images-left-corner" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g fill="#EB7227" fill-rule="evenodd">
+        <path d="M0 0H32V4H0z"/>
+        <path d="M-14 14H18V18H-14z" transform="rotate(90 2 16)"/>
+    </g>
+</svg>
