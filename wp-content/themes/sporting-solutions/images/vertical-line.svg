@@ -1,0 +1,5 @@
+<svg id="images-vertical-line" xmlns="http://www.w3.org/2000/svg" width="23" height="120" viewBox="0 0 23 120">
+    <g fill="#EB7227" fill-rule="evenodd">
+        <path d="M-40 57H80V63H-40z" transform="rotate(90 20 60)"/>
+    </g>
+</svg>
