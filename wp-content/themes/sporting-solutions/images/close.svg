@@ -1,0 +1,7 @@
+<svg id="images-close" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#FFF" stroke-width="3" d="M0 0H32V32H0z" transform="translate(2 2)"/>
+        <path fill="#FFF" d="M14.5 9H17.5V23H14.5z" transform="translate(2 2) rotate(45 16 16)"/>
+        <path fill="#FFF" d="M14.5 9H17.5V23H14.5z" transform="translate(2 2) rotate(135 16 16)"/>
+    </g>
+</svg>
